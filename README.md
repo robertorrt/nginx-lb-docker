@@ -1,2 +1,2 @@
 # nginx-lb-docker
-Nginx e Load Balancer em docker
+Proxy reverso e Load Balancer com NGINX
